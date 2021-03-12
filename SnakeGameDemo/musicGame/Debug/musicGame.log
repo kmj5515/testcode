@@ -1,0 +1,3 @@
+﻿  musicGame.cpp
+c:\users\kga_10\desktop\snakegamedemo\musicgame\musicgame.cpp(29): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  musicGame.vcxproj -> C:\Users\KGA_10\Desktop\SnakeGameDemo\Debug\musicGame.exe

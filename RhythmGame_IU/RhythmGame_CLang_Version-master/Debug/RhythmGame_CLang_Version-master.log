@@ -1,0 +1,6 @@
+﻿  RhythmGame_CLang_Version-master.c
+C:\Users\KGA_03\Desktop\김민준 퐅더\RhythmGame_IU\RhythmGame_CLang_Version-master\RhythmGame_CLang_Version-master.c(9,9): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\KGA_03\Desktop\김민준 퐅더\RhythmGame_IU\RhythmGame_CLang_Version-master\RhythmGame_CLang_Version-master.c(45,8): warning C4101: 'arr' :참조되지 않은 지역 변수입니다.
+C:\Users\KGA_03\Desktop\김민준 퐅더\RhythmGame_IU\RhythmGame_CLang_Version-master\RhythmGame_CLang_Version-master.c(274,13): warning C4013: '_kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KGA_03\Desktop\김민준 퐅더\RhythmGame_IU\RhythmGame_CLang_Version-master\RhythmGame_CLang_Version-master.c(276,17): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  RhythmGame_CLang_Version-master.vcxproj -> C:\Users\KGA_03\Desktop\김민준 퐅더\RhythmGame_IU\Debug\RhythmGame_CLang_Version-master.exe

@@ -1,0 +1,15 @@
+﻿  FindingCrystalGame.cpp
+c:\users\kga_03\desktop\김민준 퐅더\findingcrystalgame\findingcrystalgame\findingcrystalgame.cpp(39): warning C4005: 'LEFT': 매크로 재정의
+  c:\users\kga_03\desktop\김민준 퐅더\findingcrystalgame\findingcrystalgame\findingcrystalgame.cpp(26): note: 'LEFT'의 이전 정의를 참조하십시오.
+c:\users\kga_03\desktop\김민준 퐅더\findingcrystalgame\findingcrystalgame\findingcrystalgame.cpp(40): warning C4005: 'RIGHT': 매크로 재정의
+  c:\users\kga_03\desktop\김민준 퐅더\findingcrystalgame\findingcrystalgame\findingcrystalgame.cpp(27): note: 'RIGHT'의 이전 정의를 참조하십시오.
+c:\users\kga_03\desktop\김민준 퐅더\findingcrystalgame\findingcrystalgame\findingcrystalgame.cpp(41): warning C4005: 'UP': 매크로 재정의
+  c:\users\kga_03\desktop\김민준 퐅더\findingcrystalgame\findingcrystalgame\findingcrystalgame.cpp(24): note: 'UP'의 이전 정의를 참조하십시오.
+c:\users\kga_03\desktop\김민준 퐅더\findingcrystalgame\findingcrystalgame\findingcrystalgame.cpp(42): warning C4005: 'DOWN': 매크로 재정의
+  c:\users\kga_03\desktop\김민준 퐅더\findingcrystalgame\findingcrystalgame\findingcrystalgame.cpp(25): note: 'DOWN'의 이전 정의를 참조하십시오.
+c:\users\kga_03\desktop\김민준 퐅더\findingcrystalgame\findingcrystalgame\findingcrystalgame.cpp(54): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kga_03\desktop\김민준 퐅더\findingcrystalgame\findingcrystalgame\findingcrystalgame.cpp(155): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+c:\users\kga_03\desktop\김민준 퐅더\findingcrystalgame\findingcrystalgame\findingcrystalgame.cpp(159): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+  FindingCrystalGame.vcxproj -> C:\Users\KGA_03\Desktop\김민준 퐅더\FindingCrystalGame\Debug\FindingCrystalGame.exe
